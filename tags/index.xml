@@ -1,16 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on BonetBlog</title>
+    <title>Tags on David Fernandez Bonet</title>
     <link>https://davidfernandezbonet.github.io/tags/</link>
-    <description>Recent content in Tags on BonetBlog</description>
+    <description>Recent content in Tags on David Fernandez Bonet</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 18 Mar 2022 21:47:41 +0000</lastBuildDate><atom:link href="https://davidfernandezbonet.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://davidfernandezbonet.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>essay</title>
+      <link>https://davidfernandezbonet.github.io/tags/essay/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidfernandezbonet.github.io/tags/essay/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>paradox_of_choice</title>
+      <link>https://davidfernandezbonet.github.io/tags/paradox_of_choice/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidfernandezbonet.github.io/tags/paradox_of_choice/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>society</title>
+      <link>https://davidfernandezbonet.github.io/tags/society/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidfernandezbonet.github.io/tags/society/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>anthropocene reviewed</title>
+      <link>https://davidfernandezbonet.github.io/tags/anthropocene-reviewed/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidfernandezbonet.github.io/tags/anthropocene-reviewed/</guid>
+      
+        <description></description>
+      
+    </item>
+    
     <item>
       <title>demo</title>
       <link>https://davidfernandezbonet.github.io/tags/demo/</link>
-      <pubDate>Fri, 18 Mar 2022 21:47:41 +0000</pubDate>
+      <pubDate>Sat, 13 Mar 2021 21:47:41 +0000</pubDate>
       
       <guid>https://davidfernandezbonet.github.io/tags/demo/</guid>
       
@@ -21,7 +65,7 @@
     <item>
       <title>shortcode</title>
       <link>https://davidfernandezbonet.github.io/tags/shortcode/</link>
-      <pubDate>Fri, 18 Mar 2022 21:47:41 +0000</pubDate>
+      <pubDate>Sat, 13 Mar 2021 21:47:41 +0000</pubDate>
       
       <guid>https://davidfernandezbonet.github.io/tags/shortcode/</guid>
       
@@ -30,110 +74,11 @@
     </item>
     
     <item>
-      <title>redirect</title>
-      <link>https://davidfernandezbonet.github.io/tags/redirect/</link>
-      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      <title>biology</title>
+      <link>https://davidfernandezbonet.github.io/tags/biology/</link>
+      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://davidfernandezbonet.github.io/tags/redirect/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>redirectUrl</title>
-      <link>https://davidfernandezbonet.github.io/tags/redirecturl/</link>
-      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://davidfernandezbonet.github.io/tags/redirecturl/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>css</title>
-      <link>https://davidfernandezbonet.github.io/tags/css/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://davidfernandezbonet.github.io/tags/css/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>html</title>
-      <link>https://davidfernandezbonet.github.io/tags/html/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://davidfernandezbonet.github.io/tags/html/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>markdown</title>
-      <link>https://davidfernandezbonet.github.io/tags/markdown/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://davidfernandezbonet.github.io/tags/markdown/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>privacy</title>
-      <link>https://davidfernandezbonet.github.io/tags/privacy/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://davidfernandezbonet.github.io/tags/privacy/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>shortcodes</title>
-      <link>https://davidfernandezbonet.github.io/tags/shortcodes/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://davidfernandezbonet.github.io/tags/shortcodes/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>text</title>
-      <link>https://davidfernandezbonet.github.io/tags/text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://davidfernandezbonet.github.io/tags/text/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>emoji</title>
-      <link>https://davidfernandezbonet.github.io/tags/emoji/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://davidfernandezbonet.github.io/tags/emoji/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>thumbnail</title>
-      <link>https://davidfernandezbonet.github.io/tags/thumbnail/</link>
-      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://davidfernandezbonet.github.io/tags/thumbnail/</guid>
+      <guid>https://davidfernandezbonet.github.io/tags/biology/</guid>
       
         <description></description>
       

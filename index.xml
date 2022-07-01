@@ -1,75 +1,145 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>BonetBlog</title>
+    <title>David Fernandez Bonet</title>
     <link>https://davidfernandezbonet.github.io/</link>
-    <description>Recent content on BonetBlog</description>
+    <description>Recent content on David Fernandez Bonet</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 18 Mar 2022 21:47:41 +0000</lastBuildDate><atom:link href="https://davidfernandezbonet.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://davidfernandezbonet.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Awards</title>
-      <link>https://davidfernandezbonet.github.io/awards/</link>
-      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      <title>Contact</title>
+      <link>https://davidfernandezbonet.github.io/contact/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://davidfernandezbonet.github.io/awards/</guid>
+      <guid>https://davidfernandezbonet.github.io/contact/</guid>
       
-        <description>Hugo Awards, an annual literary award for the best science fiction or fantasy works</description>
+        <description>Contact Page</description>
       
     </item>
     
     <item>
-      <title>Certifications</title>
-      <link>https://davidfernandezbonet.github.io/certifications/</link>
-      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      <title>What They Don’t Tell You About Freedom</title>
+      <link>https://davidfernandezbonet.github.io/educated_ramblings/what-they-dont-tell-you-about-freedom-/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://davidfernandezbonet.github.io/certifications/</guid>
+      <guid>https://davidfernandezbonet.github.io/educated_ramblings/what-they-dont-tell-you-about-freedom-/</guid>
       
-        <description>Hugo Certifications</description>
-      
-    </item>
-    
-    <item>
-      <title>The Notice Shortcode</title>
-      <link>https://davidfernandezbonet.github.io/post/notice-shortcode/</link>
-      <pubDate>Fri, 18 Mar 2022 21:47:41 +0000</pubDate>
-      
-      <guid>https://davidfernandezbonet.github.io/post/notice-shortcode/</guid>
-      
-        <description>The notice shortcode supports three different types of disclaimers. These are as following:</description>
+        <description>We love freedom. We love the feeling of flying through the sky, of sliding down mountains, and of exploring vast oceans.</description>
       
     </item>
     
     <item>
-      <title>Series Part 2</title>
-      <link>https://davidfernandezbonet.github.io/post/series-part-2/</link>
-      <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
+      <title>What They Don’t Tell You About Freedom</title>
+      <link>https://davidfernandezbonet.github.io/post/educated_ramblings/what-they-dont-tell-you-about-freedom-/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://davidfernandezbonet.github.io/post/series-part-2/</guid>
+      <guid>https://davidfernandezbonet.github.io/post/educated_ramblings/what-they-dont-tell-you-about-freedom-/</guid>
       
-        <description>A brief guide to how to setup series part 2</description>
-      
-    </item>
-    
-    <item>
-      <title>Series Part 1</title>
-      <link>https://davidfernandezbonet.github.io/post/series-part-1/</link>
-      <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://davidfernandezbonet.github.io/post/series-part-1/</guid>
-      
-        <description>A brief guide to how to setup series part 1</description>
+        <description>We love freedom. We love the feeling of flying through the sky, of sliding down mountains, and of exploring vast oceans.</description>
       
     </item>
     
     <item>
-      <title>Redirect</title>
-      <link>https://davidfernandezbonet.github.io/post/redirect/</link>
-      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      <title>So you hit the jackpot?</title>
+      <link>https://davidfernandezbonet.github.io/educated_ramblings/so-you-have-won-the-jackpot/</link>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://davidfernandezbonet.github.io/post/redirect/</guid>
+      <guid>https://davidfernandezbonet.github.io/educated_ramblings/so-you-have-won-the-jackpot/</guid>
       
-        <description>Usage of redirectUrl</description>
+        <description>SO YOU HIT THE JACKPOT?
+Your mouth is wide open, your hands are shaking, your brain is in utter disbelief.</description>
+      
+    </item>
+    
+    <item>
+      <title>So you hit the jackpot?</title>
+      <link>https://davidfernandezbonet.github.io/post/educated_ramblings/so-you-have-won-the-jackpot/</link>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidfernandezbonet.github.io/post/educated_ramblings/so-you-have-won-the-jackpot/</guid>
+      
+        <description>SO YOU HIT THE JACKPOT?
+Your mouth is wide open, your hands are shaking, your brain is in utter disbelief.</description>
+      
+    </item>
+    
+    <item>
+      <title>The need for leaders</title>
+      <link>https://davidfernandezbonet.github.io/educated_ramblings/the-need-for-leaders/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidfernandezbonet.github.io/educated_ramblings/the-need-for-leaders/</guid>
+      
+        <description>Irresistibly, you get lost in wonder, for the starry night could not be more charming.</description>
+      
+    </item>
+    
+    <item>
+      <title>The need for leaders</title>
+      <link>https://davidfernandezbonet.github.io/post/educated_ramblings/the-need-for-leaders/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidfernandezbonet.github.io/post/educated_ramblings/the-need-for-leaders/</guid>
+      
+        <description>Irresistibly, you get lost in wonder, for the starry night could not be more charming.</description>
+      
+    </item>
+    
+    <item>
+      <title>The price of health</title>
+      <link>https://davidfernandezbonet.github.io/educated_ramblings/the-price-of-health/</link>
+      <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidfernandezbonet.github.io/educated_ramblings/the-price-of-health/</guid>
+      
+        <description>What a beautiful day. The sun is shining, the sky is clear and you feel ready.</description>
+      
+    </item>
+    
+    <item>
+      <title>The price of health</title>
+      <link>https://davidfernandezbonet.github.io/post/educated_ramblings/the-price-of-health/</link>
+      <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidfernandezbonet.github.io/post/educated_ramblings/the-price-of-health/</guid>
+      
+        <description>What a beautiful day. The sun is shining, the sky is clear and you feel ready.</description>
+      
+    </item>
+    
+    <item>
+      <title>The what and the how</title>
+      <link>https://davidfernandezbonet.github.io/educated_ramblings/the-what-and-the-how/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidfernandezbonet.github.io/educated_ramblings/the-what-and-the-how/</guid>
+      
+        <description>The what and the how
+When I was a child, I did not care about how I looked to others.</description>
+      
+    </item>
+    
+    <item>
+      <title>The what and the how</title>
+      <link>https://davidfernandezbonet.github.io/post/educated_ramblings/the-what-and-the-how/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidfernandezbonet.github.io/post/educated_ramblings/the-what-and-the-how/</guid>
+      
+        <description>The what and the how
+When I was a child, I did not care about how I looked to others.</description>
+      
+    </item>
+    
+    <item>
+      <title>The Figure Shortcode</title>
+      <link>https://davidfernandezbonet.github.io/journal_reviews/figure-shortcode/</link>
+      <pubDate>Sat, 13 Mar 2021 21:47:41 +0000</pubDate>
+      
+      <guid>https://davidfernandezbonet.github.io/journal_reviews/figure-shortcode/</guid>
+      
+        <description>Hugo has figure shortcode built-in, so you can easily add figure captions or hyperlink rel attributes to images.</description>
       
     </item>
     
@@ -85,6 +155,61 @@
     </item>
     
     <item>
+      <title>The Figure Shortcode</title>
+      <link>https://davidfernandezbonet.github.io/post/journal_reviews/figure-shortcode/</link>
+      <pubDate>Sat, 13 Mar 2021 21:47:41 +0000</pubDate>
+      
+      <guid>https://davidfernandezbonet.github.io/post/journal_reviews/figure-shortcode/</guid>
+      
+        <description>Hugo has figure shortcode built-in, so you can easily add figure captions or hyperlink rel attributes to images.</description>
+      
+    </item>
+    
+    <item>
+      <title>Why are there males and females?</title>
+      <link>https://davidfernandezbonet.github.io/educated_ramblings/males-and-females.-why/</link>
+      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidfernandezbonet.github.io/educated_ramblings/males-and-females.-why/</guid>
+      
+        <description>It is Friday night: a nice bar, no work to do and not a single worry in your head.</description>
+      
+    </item>
+    
+    <item>
+      <title>Why are there males and females?</title>
+      <link>https://davidfernandezbonet.github.io/post/educated_ramblings/males-and-females.-why/</link>
+      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidfernandezbonet.github.io/post/educated_ramblings/males-and-females.-why/</guid>
+      
+        <description>It is Friday night: a nice bar, no work to do and not a single worry in your head.</description>
+      
+    </item>
+    
+    <item>
+      <title>The Fountain of Youth</title>
+      <link>https://davidfernandezbonet.github.io/educated_ramblings/the-fountain-of-youth/</link>
+      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidfernandezbonet.github.io/educated_ramblings/the-fountain-of-youth/</guid>
+      
+        <description>Imagine you are fooling around with Google Earth, exploring Area 51 and whatnot.</description>
+      
+    </item>
+    
+    <item>
+      <title>The Fountain of Youth</title>
+      <link>https://davidfernandezbonet.github.io/post/educated_ramblings/the-fountain-of-youth/</link>
+      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidfernandezbonet.github.io/post/educated_ramblings/the-fountain-of-youth/</guid>
+      
+        <description>Imagine you are fooling around with Google Earth, exploring Area 51 and whatnot.</description>
+      
+    </item>
+    
+    <item>
       <title></title>
       <link>https://davidfernandezbonet.github.io/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
@@ -92,50 +217,6 @@
       <guid>https://davidfernandezbonet.github.io/archives/</guid>
       
         <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://davidfernandezbonet.github.io/post/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://davidfernandezbonet.github.io/post/markdown-syntax/</guid>
-      
-        <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
-      
-    </item>
-    
-    <item>
-      <title>Rich Content</title>
-      <link>https://davidfernandezbonet.github.io/post/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://davidfernandezbonet.github.io/post/rich-content/</guid>
-      
-        <description>A brief description of Hugo Shortcodes</description>
-      
-    </item>
-    
-    <item>
-      <title>Placeholder Text</title>
-      <link>https://davidfernandezbonet.github.io/post/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://davidfernandezbonet.github.io/post/placeholder-text/</guid>
-      
-        <description>Lorem Ipsum Dolor Si Amet</description>
-      
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://davidfernandezbonet.github.io/contact/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://davidfernandezbonet.github.io/contact/</guid>
-      
-        <description>Contact Page</description>
       
     </item>
     
@@ -151,28 +232,6 @@
     </item>
     
     <item>
-      <title>Emoji Support</title>
-      <link>https://davidfernandezbonet.github.io/post/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://davidfernandezbonet.github.io/post/emoji-support/</guid>
-      
-        <description>Guide to emoji usage in Hugo</description>
-      
-    </item>
-    
-    <item>
-      <title>Guide to Thumbnails in Hugo</title>
-      <link>https://davidfernandezbonet.github.io/post/image-test/</link>
-      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://davidfernandezbonet.github.io/post/image-test/</guid>
-      
-        <description>Guide to Thumbnails in Hugo</description>
-      
-    </item>
-    
-    <item>
       <title>About</title>
       <link>https://davidfernandezbonet.github.io/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
@@ -180,18 +239,6 @@
       <guid>https://davidfernandezbonet.github.io/about/</guid>
       
         <description>Hugo, the world&#39;s fastest framework for building websites</description>
-      
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://davidfernandezbonet.github.io/imprint/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://davidfernandezbonet.github.io/imprint/</guid>
-      
-        <description>Legal Disclosure Information in accordance with the applicable law
-Jane Doe</description>
       
     </item>
     

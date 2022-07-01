@@ -2,7 +2,7 @@
 <html
   dir="ltr"
   lang="en"
-  data-theme=""
+  data-theme="dark"
   class="html"
 ><head>
   <title>
@@ -16,7 +16,10 @@
   <meta name="author" content="David Fernandez Bonet" />
   <meta
     name="description"
-    content="Computational Physicist"
+    content="Computational Physicist
+KTH Royal Institute of Technology
+SciLifeLab
+"
   />
   
   
@@ -74,7 +77,7 @@
   <link rel="canonical" href="https://davidfernandezbonet.github.io/" />
 
   
-  <link rel="alternate" type="application/rss+xml" href="/index.xml" title="BonetBlog" />
+  <link rel="alternate" type="application/rss+xml" href="/index.xml" title="David Fernandez Bonet" />
 
 
   
@@ -88,16 +91,6 @@
   ></script>
 
   
-    
-    
-    <script
-      type="text/javascript"
-      src="/js/anatole-theme-switcher.min.738c0e3a493854876aeab9e2316fd43f1936aeeac4cc6b3e60bb26456dba72ad.js"
-      integrity="sha256-c4wOOkk4VIdq6rniMW/UPxk2rurEzGs&#43;YLsmRW26cq0="
-      crossorigin="anonymous"
-    ></script>
-
-  
 
   
 
@@ -107,15 +100,21 @@
 <meta name="twitter:image" content="https://davidfernandezbonet.github.io/images/site-feature-image.png"/>
 
 <meta name="twitter:title" content=""/>
-<meta name="twitter:description" content="Computational Physicist"/>
+<meta name="twitter:description" content="Computational Physicist
+KTH Royal Institute of Technology
+SciLifeLab
+"/>
 
 
 
   
   <meta property="og:title" content="" />
-<meta property="og:description" content="Computational Physicist" />
+<meta property="og:description" content="Computational Physicist
+KTH Royal Institute of Technology
+SciLifeLab
+" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://davidfernandezbonet.github.io/" /><meta property="og:image" content="https://davidfernandezbonet.github.io/images/site-feature-image.png"/><meta property="og:site_name" content="BonetBlog" />
+<meta property="og:url" content="https://davidfernandezbonet.github.io/" /><meta property="og:image" content="https://davidfernandezbonet.github.io/images/site-feature-image.png"/><meta property="og:site_name" content="David Fernandez Bonet" />
 
 
 
@@ -125,9 +124,9 @@
     {
       "@context": "http://schema.org",
       "@type": "WebSite",
-      "name": "BonetBlog",
+      "name": "David Fernandez Bonet",
       "url": "https:\/\/davidfernandezbonet.github.io\/",
-      "description": "Computational Physicist",
+      "description": "Computational Physicist\nKTH Royal Institute of Technology\nSciLifeLab\n",
       "thumbnailUrl": "https:\/\/davidfernandezbonet.github.io\/",
       "license": ""
     }
@@ -138,7 +137,7 @@
 </head>
 <body
     
-      class="body theme--light"
+      class="body theme--dark"
 
     
   >
@@ -158,17 +157,17 @@
     <div class="sidebar__introduction">
       <img
         class="sidebar__introduction-profileimage"
-        src="/images/foto_david.jpg"
+        src="/images/foto_david_square.jpg"
         alt="profile picture"
       />
       
         <h1 class="sidebar__introduction-title">
-          <a href="/">BonetBlog</a>
+          <a href="/">David Fernandez Bonet</a>
         </h1>
 
       
       <div class="sidebar__introduction-description">
-        <p>Computational Physicist</p>
+        <p>Computational Physicist<br />KTH Royal Institute of Technology<br />SciLifeLab<br /></p>
       </div>
     </div>
     <ul class="sidebar__list">
@@ -225,18 +224,6 @@
       
     </li>
     
-      <li class="footer__item">
-        <a
-          class="link"
-          href="/imprint/"
-          
-          title=""
-        >
-          imprint
-        </a>
-      </li>
-
-    
   </ul>
 </footer>
   
@@ -289,46 +276,52 @@
       
         
         
+
           <li class="nav__list-item">
-            <a
-              
-              href="/post/"
-              
-              title=""
-              >Posts</a
-            >
-          </li>
+            <div class="optionswitch">
+              <input class="optionswitch__picker" type="checkbox" id="1" hidden />
 
-        
+              
+              
+                
 
 
-      
-        
-        
-          <li class="nav__list-item">
-            <a
               
-              href="/portfolio/"
-              
-              title=""
-              >Talks</a
-            >
-          </li>
-
-        
+                
 
 
-      
-        
-        
-          <li class="nav__list-item">
-            <a
               
-              href="/about/"
-              
-              title=""
-              >Topics</a
-            >
+
+
+              <label class="optionswitch__label" for="1"
+                >Posts <i class="fa fa-angle-down" aria-hidden="true"></i
+              ></label>
+
+              <div class="optionswitch__triangle"></div>
+              <ul class="optionswitch__list">
+                
+                  <li class="optionswitch__list-item">
+                    <a
+                      href="/educated_ramblings/"
+                      
+                      title=""
+                      >Educated ramblings</a
+                    >
+                  </li>
+
+                
+                  <li class="optionswitch__list-item">
+                    <a
+                      href="/journal_reviews/"
+                      
+                      title=""
+                      >Journal Reviews</a
+                    >
+                  </li>
+
+                
+              </ul>
+            </div>
           </li>
 
         
@@ -354,15 +347,6 @@
     </ul>
     <ul class="nav__list nav__list--end">
       
-      
-        <li class="nav__list-item">
-          <div class="themeswitch">
-            <a title="Switch Theme">
-              <i class="fas fa-adjust fa-fw" aria-hidden="true"></i>
-            </a>
-          </div>
-        </li>
-
       
     </ul>
   </nav>
@@ -395,7 +379,22 @@ Don't forget to check the README.md file!
 ```
 
 Remember that you can also specify a section header for the posts below by configuring the `mainSectionsTitle` parameter in the front matter of this file.
+# Write your static home page HERE:
 -->
+<h1 id="biography">Biography</h1>
+<p>Hello World, I am David, a computational physicist who loves to solve problems ✨</p>
+<p>The problems I am facing lately have to do with the very legos that define who we are: DNA. In particular, I deal with DNA Microscopy 🧬</p>
+<p>DNA Microscopy aims to map spatial information through DNA, as opposed to classic approaches which use light.
+Image obtention from DNA is challenging. It involves math, computer science, and passion 💻</p>
+<p>Outside my academic endeavours I like to hike and enjoy nature. I also write from time to time about whatever catches my attention.</p>
+<h1 id="interests">Interests</h1>
+<ul>
+<li>Probabilistic Modeling</li>
+<li>Programming</li>
+<li>Graph &amp; Information Theory</li>
+<li>Essaying</li>
+<li>Hiking</li>
+</ul>
 
     </div>
 
@@ -413,10 +412,17 @@ Remember that you can also specify a section header for the posts below by confi
       "
     >
       
+        <div class="post__thumbnail-wrapper">
+          <a href="/post/educated_ramblings/what-they-dont-tell-you-about-freedom-/">
+            <img class="post__thumbnail" src="/images/freedom.png" alt="Thumbnail image" loading="lazy" />
+          </a>
+        </div>
+
+      
       <div class="post__content">
-        <h3><a href="/post/notice-shortcode/">THE NOTICE SHORTCODE</a></h3>
+        <h3><a href="/post/educated_ramblings/what-they-dont-tell-you-about-freedom-/">WHAT THEY DON’T TELL YOU ABOUT FREEDOM</a></h3>
         
-          <p>The notice shortcode supports three different types of disclaimers. These are as following:</p>
+          <p>We love freedom. We love the feeling of flying through the sky, of sliding down mountains, and of exploring vast oceans.</p>
 
         
         </div>
@@ -426,7 +432,7 @@ Remember that you can also specify a section header for the posts below by confi
         <em class="fas fa-calendar-day"></em>
         <span class="post__footer-date"
           >
-            18/3/2022
+            1/5/2022
 
 
           </span
@@ -434,7 +440,7 @@ Remember that you can also specify a section header for the posts below by confi
         
 
         
-          <span><a class="tag" href="/tags/demo/">demo</a><a class="tag" href="/tags/shortcode/">shortcode</a></span>
+          <span><a class="tag" href="/tags/essay/">essay</a><a class="tag" href="/tags/paradox_of_choice/">paradox_of_choice</a></span>
 
 
 
@@ -451,10 +457,18 @@ Remember that you can also specify a section header for the posts below by confi
       "
     >
       
+        <div class="post__thumbnail-wrapper">
+          <a href="/post/educated_ramblings/so-you-have-won-the-jackpot/">
+            <img class="post__thumbnail" src="/images/lottery.png" alt="Thumbnail image" loading="lazy" />
+          </a>
+        </div>
+
+      
       <div class="post__content">
-        <h3><a href="/post/series-part-2/">SERIES PART 2</a></h3>
+        <h3><a href="/post/educated_ramblings/so-you-have-won-the-jackpot/">SO YOU HIT THE JACKPOT?</a></h3>
         
-          <p>In this second part of the series we&rsquo;ll show you where to find the full series</p>
+          <p>SO YOU HIT THE JACKPOT?
+Your mouth is wide open, your hands are shaking, your brain is in utter disbelief.</p>
 
         
         </div>
@@ -464,12 +478,18 @@ Remember that you can also specify a section header for the posts below by confi
         <em class="fas fa-calendar-day"></em>
         <span class="post__footer-date"
           >
-            15/8/2021
+            20/1/2022
 
 
           </span
         >
         
+
+        
+          <span><a class="tag" href="/tags/essay/">essay</a></span>
+
+
+
 
         
       </div>
@@ -483,10 +503,17 @@ Remember that you can also specify a section header for the posts below by confi
       "
     >
       
+        <div class="post__thumbnail-wrapper">
+          <a href="/post/educated_ramblings/the-need-for-leaders/">
+            <img class="post__thumbnail" src="/images/leaders1.png" alt="Thumbnail image" loading="lazy" />
+          </a>
+        </div>
+
+      
       <div class="post__content">
-        <h3><a href="/post/series-part-1/">SERIES PART 1</a></h3>
+        <h3><a href="/post/educated_ramblings/the-need-for-leaders/">THE NEED FOR LEADERS</a></h3>
         
-          <p>In this first part of the series we&rsquo;ll show you how to create a series</p>
+          <p>Irresistibly, you get lost in wonder, for the starry night could not be more charming.</p>
 
         
         </div>
@@ -496,12 +523,18 @@ Remember that you can also specify a section header for the posts below by confi
         <em class="fas fa-calendar-day"></em>
         <span class="post__footer-date"
           >
-            14/8/2021
+            6/12/2021
 
 
           </span
         >
         
+
+        
+          <span><a class="tag" href="/tags/essay/">essay</a><a class="tag" href="/tags/society/">society</a></span>
+
+
+
 
         
       </div>
@@ -515,10 +548,17 @@ Remember that you can also specify a section header for the posts below by confi
       "
     >
       
+        <div class="post__thumbnail-wrapper">
+          <a href="/post/educated_ramblings/the-price-of-health/">
+            <img class="post__thumbnail" src="/images/health1.jpeg" alt="Thumbnail image" loading="lazy" />
+          </a>
+        </div>
+
+      
       <div class="post__content">
-        <h3><a href="/post/redirect/">REDIRECT</a></h3>
+        <h3><a href="/post/educated_ramblings/the-price-of-health/">THE PRICE OF HEALTH</a></h3>
         
-          <p>Forwarding to gohugo using redirectUrl</p>
+          <p>What a beautiful day. The sun is shining, the sky is clear and you feel ready.</p>
 
         
         </div>
@@ -528,7 +568,7 @@ Remember that you can also specify a section header for the posts below by confi
         <em class="fas fa-calendar-day"></em>
         <span class="post__footer-date"
           >
-            20/6/2021
+            12/9/2021
 
 
           </span
@@ -536,7 +576,53 @@ Remember that you can also specify a section header for the posts below by confi
         
 
         
-          <span><a class="tag" href="/tags/redirect/">redirect</a><a class="tag" href="/tags/redirecturl/">redirectUrl</a></span>
+          <span><a class="tag" href="/tags/essay/">essay</a></span>
+
+
+
+
+        
+      </div>
+    </div>
+
+  
+    <div
+      class="post 
+        animated fadeInDown
+
+      "
+    >
+      
+        <div class="post__thumbnail-wrapper">
+          <a href="/post/educated_ramblings/the-what-and-the-how/">
+            <img class="post__thumbnail" src="/images/ellen_b%c3%a4ck_what_how.png" alt="Thumbnail image" loading="lazy" />
+          </a>
+        </div>
+
+      
+      <div class="post__content">
+        <h3><a href="/post/educated_ramblings/the-what-and-the-how/">THE WHAT AND THE HOW</a></h3>
+        
+          <p>The what and the how
+When I was a child, I did not care about how I looked to others.</p>
+
+        
+        </div>
+
+      
+      <div class="post__footer">
+        <em class="fas fa-calendar-day"></em>
+        <span class="post__footer-date"
+          >
+            20/5/2021
+
+
+          </span
+        >
+        
+
+        
+          <span><a class="tag" href="/tags/essay/">essay</a><a class="tag" href="/tags/anthropocene-reviewed/">anthropocene reviewed</a></span>
 
 
 
@@ -592,9 +678,9 @@ Remember that you can also specify a section header for the posts below by confi
     >
       
       <div class="post__content">
-        <h3><a href="/post/markdown-syntax/">MARKDOWN SYNTAX GUIDE</a></h3>
+        <h3><a href="/post/journal_reviews/figure-shortcode/">THE FIGURE SHORTCODE</a></h3>
         
-          <p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.</p>
+          <p>Hugo has figure shortcode built-in, so you can easily add figure captions or hyperlink rel attributes to images.</p>
 
         
         </div>
@@ -604,21 +690,15 @@ Remember that you can also specify a section header for the posts below by confi
         <em class="fas fa-calendar-day"></em>
         <span class="post__footer-date"
           >
-            11/3/2019
+            13/3/2021
 
 
           </span
         >
         
-          <span><a class="category" href="/categories/themes/">themes</a><a class="category" href="/categories/syntax/">syntax</a></span>
-
-
-
 
         
-
-        
-          <span><a class="tag" href="/tags/markdown/">markdown</a><a class="tag" href="/tags/css/">css</a><a class="tag" href="/tags/html/">html</a></span>
+          <span><a class="tag" href="/tags/demo/">demo</a><a class="tag" href="/tags/shortcode/">shortcode</a></span>
 
 
 
@@ -635,11 +715,17 @@ Remember that you can also specify a section header for the posts below by confi
       "
     >
       
+        <div class="post__thumbnail-wrapper">
+          <a href="/post/educated_ramblings/males-and-females.-why/">
+            <img class="post__thumbnail" src="/images/roisin_males_females_1.png" alt="Thumbnail image" loading="lazy" />
+          </a>
+        </div>
+
+      
       <div class="post__content">
-        <h3><a href="/post/rich-content/">RICH CONTENT</a></h3>
+        <h3><a href="/post/educated_ramblings/males-and-females.-why/">WHY ARE THERE MALES AND FEMALES?</a></h3>
         
-          <p><p>Hugo ships with several <a href="https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes">Built-in Shortcodes</a> for rich content, along with a <a href="https://gohugo.io/about/hugo-and-gdpr/">Privacy Config</a> and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.</p>
-<h2 id="heading"></h2></p>
+          <p>It is Friday night: a nice bar, no work to do and not a single worry in your head.</p>
 
         
         </div>
@@ -649,7 +735,7 @@ Remember that you can also specify a section header for the posts below by confi
         <em class="fas fa-calendar-day"></em>
         <span class="post__footer-date"
           >
-            10/3/2019
+            9/2/2021
 
 
           </span
@@ -657,7 +743,7 @@ Remember that you can also specify a section header for the posts below by confi
         
 
         
-          <span><a class="tag" href="/tags/shortcodes/">shortcodes</a><a class="tag" href="/tags/privacy/">privacy</a></span>
+          <span><a class="tag" href="/tags/biology/">biology</a></span>
 
 
 
@@ -674,10 +760,17 @@ Remember that you can also specify a section header for the posts below by confi
       "
     >
       
+        <div class="post__thumbnail-wrapper">
+          <a href="/post/educated_ramblings/the-fountain-of-youth/">
+            <img class="post__thumbnail" src="/images/blue_zones.jpg" alt="Thumbnail image" loading="lazy" />
+          </a>
+        </div>
+
+      
       <div class="post__content">
-        <h3><a href="/post/placeholder-text/">PLACEHOLDER TEXT</a></h3>
+        <h3><a href="/post/educated_ramblings/the-fountain-of-youth/">THE FOUNTAIN OF YOUTH</a></h3>
         
-          <p>Lorem est tota propiore conpellat pectoribus de pectora summo.</p>
+          <p>Imagine you are fooling around with Google Earth, exploring Area 51 and whatnot.</p>
 
         
         </div>
@@ -687,7 +780,7 @@ Remember that you can also specify a section header for the posts below by confi
         <em class="fas fa-calendar-day"></em>
         <span class="post__footer-date"
           >
-            9/3/2019
+            8/10/2020
 
 
           </span
@@ -695,7 +788,7 @@ Remember that you can also specify a section header for the posts below by confi
         
 
         
-          <span><a class="tag" href="/tags/markdown/">markdown</a><a class="tag" href="/tags/text/">text</a></span>
+          <span><a class="tag" href="/tags/essay/">essay</a></span>
 
 
 
@@ -737,80 +830,8 @@ Remember that you can also specify a section header for the posts below by confi
     </div>
 
   
-    <div
-      class="post 
-        animated fadeInDown
-
-      "
-    >
-      
-      <div class="post__content">
-        <h3><a href="/post/emoji-support/">EMOJI SUPPORT</a></h3>
-        
-          <p>Emoji can be enabled in a Hugo project in a number of ways.</p>
-
-        
-        </div>
-
-      
-      <div class="post__footer">
-        <em class="fas fa-calendar-day"></em>
-        <span class="post__footer-date"
-          >
-            5/3/2019
-
-
-          </span
-        >
-        
-
-        
-          <span><a class="tag" href="/tags/emoji/">emoji</a></span>
-
-
-
-
-        
-      </div>
-    </div>
-
-  
   <div class="pagination">
     
-  <ul class="pagination__list">
-    
-    
-    
-    
-      
-        <li class="pagination__list-item">
-          <span class="page-link current">1</span>
-        </li>
-
-      
-
-
-    
-      
-        <li class="pagination__list-item">
-          <a class="page-link" href="/page/2/">2</a>
-        </li>
-
-      
-
-
-    
-    
-      <li class="pagination__list-item">
-        <a class="page-link" href="/page/2/">
-          <i class="fa fa-angle-right" aria-label="Next"></i>
-        </a>
-      </li>
-
-    
-  </ul>
-
-
 
   </div>
 
@@ -827,18 +848,6 @@ Remember that you can also specify a section header for the posts below by confi
 
       
     </li>
-    
-      <li class="footer__item">
-        <a
-          class="link"
-          href="/imprint/"
-          
-          title=""
-        >
-          imprint
-        </a>
-      </li>
-
     
   </ul>
 </footer>

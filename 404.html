@@ -2,7 +2,7 @@
 <html
   dir="ltr"
   lang="en"
-  data-theme=""
+  data-theme="dark"
   class="html"
 ><head>
   <title>
@@ -19,7 +19,10 @@
   <meta name="author" content="David Fernandez Bonet" />
   <meta
     name="description"
-    content="Computational Physicist"
+    content="Computational Physicist
+KTH Royal Institute of Technology
+SciLifeLab
+"
   />
   
   
@@ -88,16 +91,6 @@
   ></script>
 
   
-    
-    
-    <script
-      type="text/javascript"
-      src="/js/anatole-theme-switcher.min.738c0e3a493854876aeab9e2316fd43f1936aeeac4cc6b3e60bb26456dba72ad.js"
-      integrity="sha256-c4wOOkk4VIdq6rniMW/UPxk2rurEzGs&#43;YLsmRW26cq0="
-      crossorigin="anonymous"
-    ></script>
-
-  
 
   
 
@@ -107,15 +100,21 @@
 <meta name="twitter:image" content="https://davidfernandezbonet.github.io/images/site-feature-image.png"/>
 
 <meta name="twitter:title" content="404 Page not found"/>
-<meta name="twitter:description" content="Computational Physicist"/>
+<meta name="twitter:description" content="Computational Physicist
+KTH Royal Institute of Technology
+SciLifeLab
+"/>
 
 
 
   
   <meta property="og:title" content="404 Page not found" />
-<meta property="og:description" content="Computational Physicist" />
+<meta property="og:description" content="Computational Physicist
+KTH Royal Institute of Technology
+SciLifeLab
+" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://davidfernandezbonet.github.io/404.html" /><meta property="og:image" content="https://davidfernandezbonet.github.io/images/site-feature-image.png"/><meta property="og:site_name" content="BonetBlog" />
+<meta property="og:url" content="https://davidfernandezbonet.github.io/404.html" /><meta property="og:image" content="https://davidfernandezbonet.github.io/images/site-feature-image.png"/><meta property="og:site_name" content="David Fernandez Bonet" />
 
 
 
@@ -126,7 +125,7 @@
 </head>
 <body
     
-      class="body theme--light"
+      class="body theme--dark"
 
     
   >
@@ -146,17 +145,17 @@
     <div class="sidebar__introduction">
       <img
         class="sidebar__introduction-profileimage"
-        src="/images/foto_david.jpg"
+        src="/images/foto_david_square.jpg"
         alt="profile picture"
       />
       
         <div class="sidebar__introduction-title">
-          <a href="/">BonetBlog</a>
+          <a href="/">David Fernandez Bonet</a>
         </div>
 
       
       <div class="sidebar__introduction-description">
-        <p>Computational Physicist</p>
+        <p>Computational Physicist<br />KTH Royal Institute of Technology<br />SciLifeLab<br /></p>
       </div>
     </div>
     <ul class="sidebar__list">
@@ -213,18 +212,6 @@
       
     </li>
     
-      <li class="footer__item">
-        <a
-          class="link"
-          href="/imprint/"
-          
-          title=""
-        >
-          imprint
-        </a>
-      </li>
-
-    
   </ul>
 </footer>
   
@@ -274,46 +261,52 @@
       
         
         
+
           <li class="nav__list-item">
-            <a
-              
-              href="/post/"
-              
-              title=""
-              >Posts</a
-            >
-          </li>
+            <div class="optionswitch">
+              <input class="optionswitch__picker" type="checkbox" id="1" hidden />
 
-        
+              
+              
+                
 
 
-      
-        
-        
-          <li class="nav__list-item">
-            <a
               
-              href="/portfolio/"
-              
-              title=""
-              >Talks</a
-            >
-          </li>
-
-        
+                
 
 
-      
-        
-        
-          <li class="nav__list-item">
-            <a
               
-              href="/about/"
-              
-              title=""
-              >Topics</a
-            >
+
+
+              <label class="optionswitch__label" for="1"
+                >Posts <i class="fa fa-angle-down" aria-hidden="true"></i
+              ></label>
+
+              <div class="optionswitch__triangle"></div>
+              <ul class="optionswitch__list">
+                
+                  <li class="optionswitch__list-item">
+                    <a
+                      href="/educated_ramblings/"
+                      
+                      title=""
+                      >Educated ramblings</a
+                    >
+                  </li>
+
+                
+                  <li class="optionswitch__list-item">
+                    <a
+                      href="/journal_reviews/"
+                      
+                      title=""
+                      >Journal Reviews</a
+                    >
+                  </li>
+
+                
+              </ul>
+            </div>
           </li>
 
         
@@ -340,15 +333,6 @@
     <ul class="nav__list nav__list--end">
       
       
-        <li class="nav__list-item">
-          <div class="themeswitch">
-            <a title="Switch Theme">
-              <i class="fas fa-adjust fa-fw" aria-hidden="true"></i>
-            </a>
-          </div>
-        </li>
-
-      
     </ul>
   </nav>
 </div>
@@ -373,18 +357,6 @@
 
       
     </li>
-    
-      <li class="footer__item">
-        <a
-          class="link"
-          href="/imprint/"
-          
-          title=""
-        >
-          imprint
-        </a>
-      </li>
-
     
   </ul>
 </footer>
