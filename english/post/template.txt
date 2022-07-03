@@ -1,0 +1,14 @@
++++
+title= "title"
+date= "yyyy-mm-dd"
+tags = [
+    "tag1",
+]
+thumbnail= "images/blue_zones.jpg"
++++
+
+# Final image:
+
+![Fountain of Youth](/images/blue_zones.jpg)
+|:--:|
+| <b>The Fountain of Youth - :copyright: Roisin Callaghan</b>|
